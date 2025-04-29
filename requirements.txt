@@ -111,7 +111,7 @@ sympy @ file:///C:/b/abs_4e4p71hdj_/croot/sympy_1724938208509/work
 terminado @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/terminado_1699545066607/work
 threadpoolctl @ file:///C:/b/abs_def0dwqlft/croot/threadpoolctl_1719407816649/work
 tinycss2 @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/tinycss2_1699545185754/work
-torch==2.4.1
+torch==2.6.0
 torchvision==0.19.1
 tornado @ file:///C:/b/abs_7bua0304mj/croot/tornado_1718740122405/work
 traitlets @ file:///C:/b/abs_bfsnoxl4pq/croot/traitlets_1718227069245/work
